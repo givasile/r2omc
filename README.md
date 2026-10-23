@@ -2,7 +2,7 @@
 
 **Vasilis Gkolemis, Christos Diou, Michael U. Gutmann**
 
-[Paper (arXiv)](https://arxiv.org/abs/2511.13394) | [lfi package (master branch)](https://github.com/givasile/lfi)
+[Paper (arXiv)](https://arxiv.org/abs/2511.13394) | [lfi package (master branch)](https://github.com/givasile/r2omc)
 
 ---
 
@@ -24,7 +24,7 @@ See [`code/README.md`](code/README.md) for setup and step-by-step instructions.
 
 ## Using R2OMC
 
-To use R2OMC in your own work, see the [`master` branch](https://github.com/givasile/lfi).
+To use R2OMC in your own work, see the [`master` branch](https://github.com/givasile/r2omc).
 
 ## Citation
 
