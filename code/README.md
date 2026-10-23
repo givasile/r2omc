@@ -64,4 +64,4 @@ python scripts/concept_figure/results.py
 ## Using `lfi` and R2OMC
 
 For general use of the `lfi` package and R2OMC outside the paper experiments,
-see the [master branch](https://github.com/givasile/lfi).
+see the [master branch](https://github.com/givasile/r2omc).
